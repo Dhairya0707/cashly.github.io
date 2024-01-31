@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549601306556",
+    "project_id": "my-cashly",
+    "storage_bucket": "my-cashly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549601306556:android:8a9a3e3230ad0bbfb7edb9",
+        "android_client_info": {
+          "package_name": "com.example.cashly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKwDzv-ufHyNT8AG-mbgbI3ibKqa01UBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
